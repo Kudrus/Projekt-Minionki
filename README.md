@@ -9,6 +9,17 @@
 
 
 
+# Spis treści
+
+* **[PROBLEM](PROBLEM)**
+* **[JAK TO DZIAŁA?](JAK TO DZIAŁA?)**
+* **[RYNEK](RYNEK)**
+* **[KONKURENCJA](KONKURENCJA)**
+* **[WYRÓŻNIKI](WYRÓŻNIKI)**
+* **[ZESPÓŁ](ZESPÓŁ)**
+* **[KONTAKT](KONTAKT)**
+
+
 
 ### PROBLEM:
 * W dzisiejszych czasach, na porządku dziennym chęć zakupów za jak najniższą cenę
