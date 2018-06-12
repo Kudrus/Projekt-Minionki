@@ -11,9 +11,9 @@
 
 # Spis treści
 
-* **[PROBLEM](PROBLEM)**
+* **[PROBLEM](#PROBLEM)**
 * **[JAK TO DZIAŁA?](JAK TO DZIAŁA?)**
-* **[RYNEK](RYNEK)**
+* **[RYNEK](#RYNEK)**
 * **[KONKURENCJA](KONKURENCJA)**
 * **[WYRÓŻNIKI](WYRÓŻNIKI)**
 * **[ZESPÓŁ](ZESPÓŁ)**
