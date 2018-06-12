@@ -5,7 +5,7 @@
 
 
 
-## Projekt grupy Minionki, na który składa się program bot, który będzie wysyłał zainteresowanej osobie plik z aktualną gazetką z wybranej puli sklepów. 
+## Projekt grupy Minionki, na który składa się program bot, który będzie wysyłał zainteresowanej osobie plik lub link z aktualną gazetką z wybranej puli sklepów. 
 
 ### PROBLEM:
 * W dzisiejszych czasach, na porządku dziennym chęć zakupów za jak najniższą cenę
