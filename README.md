@@ -10,7 +10,7 @@
 
 
 # Spis treści
-
+* **[Problem](#problem)**
 * **[PROBLEM](#PROBLEM)**
 * **[JAK TO DZIAŁA?](JAK TO DZIAŁA?)**
 * **[RYNEK](#RYNEK)**
