@@ -7,6 +7,18 @@
 
 ## Projekt grupy Minionki, na który składa się program bot, który będzie wysyłał zainteresowanej osobie plik lub link z aktualną gazetką z wybranej puli sklepów. 
 
+# Spis treści
+* **[PROBLEM](PROBLEM)**
+
+
+* **[JAK TO DZIAŁA?](JAK TO DZIAŁA?)**
+* **[RYNEK](RYNEK)**
+* **[KONKURENCJA](KONKURENCJA)**
+* **[WYRÓŻNIKI](WYRÓŻNIKI)**
+* **[ZESPÓŁ](ZESPÓŁ)**
+* **[KONTAKT](KONTAKT)**
+
+
 ### PROBLEM:
 * W dzisiejszych czasach, na porządku dziennym chęć zakupów za jak najniższą cenę
 * Występuje problem z wyborem sklepów, do których można się udać
